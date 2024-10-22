@@ -9,13 +9,14 @@
 <body>
 </html><h1 align="center">Hi 👋, I'm SUDHAKAR P</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
- <span style="align-items: right;"><img src="./gitup.gif" alt="#" height="500px" width="100%" ></span>
+ <span style="align-items: right;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl2iBCsGCgR64_UnOQA8rj7Fe_EGa4_eQXkw&s" alt="#" height="500px" width="100%" ></span>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhakar6233&label=Profile%20views&color=0e75b6&style=flat" alt="sudhakar6233" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudhakar6233" alt="sudhakar6233" /></a> </p>
 
 - 🌱 I’m currently learning **HTML CSS BOOTSTRUP**
-<img src="./user (2).gif" alt="coading">
+<span style="align-items: right;"><img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="#" height="500px" width="100%" ></span>
+
 - 📫 How to reach me **sudhakarvvcet@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
