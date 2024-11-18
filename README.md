@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudhakar6233" alt="sudhakar6233" /></a> </p>
 
-- 🌱 I’m currently learning **HTML CSS BOOTSTRUP**
+- 🌱 I’m currently learning **HTML CSS BOOTSTRUP javascript**
 <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="#" height="500px" width="100%" ></span>
 
 - 📫 How to reach me **sudhakarvvcet@gmail.com**
