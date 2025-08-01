@@ -45,6 +45,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sudhakar6233&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=sudhakar6233&show_icons=true&locale=en" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhakar6233" alt="GitHub Streak" />
-</p>
+
